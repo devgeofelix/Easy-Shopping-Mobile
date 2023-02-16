@@ -19,5 +19,5 @@
       <br>
       <br>
       <br>
-  <img src="https://github.com/devgeofelix/Easy-Shopping-Mobile/blob/master/README.jpg?raw=true" width="700px" alt="">
+  <img src="https://github.com/devgeofelix/Easy-Shopping-Mobile/blob/master/README.jpg?raw=true" width="900px" alt="">
      
